@@ -1,4 +1,4 @@
-# Product-Demand-Forecast
+# Product Demand Forecast
 ## Project_title: Inventory Optimization Via Demand Forecasting: Analyzing Sales Data and Market Trends
 This project focused on mastering Python to develop and apply machine learning techniques for robust demand forecast modeling. 
 The objective was to equip myself with the skills necessary to make accurate predictions and optimize inventory management strategies. 
