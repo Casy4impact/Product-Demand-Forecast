@@ -79,7 +79,7 @@ MAE: 28.35
 RMSE: 36.31
 MAPE: 15.88%
 
-##cModel Selection
+## Model Selection
 The Exponential Smoothing model stood out with the lowest MAE, RMSE, and MAPE values, indicating the highest accuracy in capturing demand patterns.
 
 ## Recommendations
